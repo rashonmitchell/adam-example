@@ -1,0 +1,18 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#14341F",
+        "titleBar.activeBackground": "#1D492C",
+        "titleBar.activeForeground": "#F5FBF7"
+    },
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://ueyiglrh:OsZghd9-Jg6-x4W6cvT37GdFHELB3yAO@queenie.db.elephantsql.com:5432/ueyiglrh",
+            "name": "queenie.db.elephantsql.com"
+        }
+    ]
+}
