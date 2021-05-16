@@ -1,4 +1,4 @@
 node_modules
 .env
 //heroku config:set PGSSLMODE=no-verify
-/queenie.db.elephantsql.com.session.sql
+queenie.db.elephantsql.com.session.sql
