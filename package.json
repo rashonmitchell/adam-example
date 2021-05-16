@@ -15,7 +15,6 @@
     "reset": "npm run rollback && npm run migrate && npm run seed",
     "rollback": "knex migrate:rollback"
   },
-  
   "keywords": [],
   "author": "AdAm Mayer ,r.adammayer@gmail.com>",
   "license": "ISC",
